@@ -8,5 +8,14 @@ h1 {
  
  font-family: Italianno;
  text-align:center;
+ color: brown;
+ font-size: 80px;
+}
+    
+p {
+ 
+ font-family: Italianno;
+ text-align:center;
+ color: yellow;
  font-size: 80px;
 }
